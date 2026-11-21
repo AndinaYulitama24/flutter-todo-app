@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "949770552892",
+    "project_id": "anime-verse2-b8d7e",
+    "storage_bucket": "anime-verse2-b8d7e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:949770552892:android:7e4ea13e4182a35226a539",
+        "android_client_info": {
+          "package_name": "com.example.pertemuan6"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "949770552892-9iumaer5jbon5bkmuppdbs176afh99br.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD61gHlszGUMhTofnI5R6AjCZi69uVWbHM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "949770552892-9iumaer5jbon5bkmuppdbs176afh99br.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
